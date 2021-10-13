@@ -1,4 +1,5 @@
 ## açaí solution
+![Captura de Tela (871)](https://user-images.githubusercontent.com/62512557/137056132-49424300-495b-44c8-8ba7-d209fb21f016.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
